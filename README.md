@@ -1,7 +1,7 @@
 # Домашнее задание по Composer
 
 ## Скриншот файла
-![Скриншот](https://postimg.cc/H8VrC4zq)
+![2025-07-29-14-58-33.png](https://postimg.cc/H8VrC4zq)
 
 ## Ответы на вопросы
 
